@@ -1,6 +1,6 @@
 # Resort Transportation Management System (RTMS)
 
-A distributed cloud-based transportation management system developed as part of the COE892: Distributed and Cloud Computing course at Toronto Metropolitan University (Winter 2025). The RTMS optimizes resort cart dispatch by managing guest transportation requests, real-time cart scheduling, and data communication using secure APIs and modern backend architecture.
+A distributed cloud-based transportation management system developed to optimize resort cart dispatch by managing guest transportation requests, real-time cart scheduling, and data communication using secure APIs and modern backend architecture.
 
 ## Features
 
